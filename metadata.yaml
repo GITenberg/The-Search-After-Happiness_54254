@@ -1,5 +1,5 @@
 _repo: The-Search-After-Happiness_54254
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Brontë, Charlotte
@@ -12,7 +12,12 @@ contributor:
     gutenberg_agent_id: '408'
     url: http://www.gutenberg.org/2009/agents/408
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54254#The-Search-After-Happiness
 gutenberg_issued: '2017-02-28'
 gutenberg_type: Text
 identifiers:
